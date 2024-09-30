@@ -31,3 +31,28 @@
 .captions {
     font-size: small;
 }
+
+#list {
+    padding-left: 1%;
+}
+
+.table {
+    text-align: left
+}
+
+.cella {
+    width: 25%;
+}
+
+.raw-1 {
+    color: white;
+    background-color: rgb(40, 127, 220);
+}
+
+.raw-2 {
+background-color: lightskyblue;
+}
+
+.high-light {
+    background-color: yellow;
+}
