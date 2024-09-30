@@ -13,3 +13,21 @@
     background-repeat: no-repeat;
     background-position: bottom;
 }
+
+.under-title {
+    color: gray;
+    margin-bottom: 20px;
+    font-weight: bolder;
+}
+
+#author {
+    color: rgb(40, 127, 220);
+}
+
+#data {
+    font-size: small;
+}
+
+.captions {
+    font-size: small;
+}
