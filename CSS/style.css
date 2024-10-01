@@ -37,19 +37,20 @@
 }
 
 .table {
-    text-align: left
+    text-align: left;
+    border-collapse: collapse;
 }
 
-.cella {
-    width: 25%;
+.cell-raw {
+    width: 50%;
 }
 
-.raw-1 {
+.main-raw {
     color: white;
     background-color: rgb(40, 127, 220);
 }
 
-.raw-2 {
+.odd-raw {
 background-color: lightskyblue;
 }
 
